@@ -1,0 +1,25 @@
+.ny-container {
+    max-width: 1024px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-image {
+    width: 350px;
+    height: 350px;
+}
+
+.ny-header {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.ny-main-section {
+    margin: 0 auto;
+    padding-left: 50px;
+    max-width: 400px;
+}
+
+.ny-footer {
+    text-align: center;
+}
