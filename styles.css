@@ -23,3 +23,15 @@
 .ny-footer {
     text-align: center;
 }
+
+.special-words {
+    color: blue;
+}
+
+.methods-name {
+    color: red;
+}
+
+.string-items {
+    color: orange;
+}
